@@ -38,7 +38,7 @@ body {
 .radial-glow {
   background: radial-gradient(circle 800px at 50% -100px, rgba(168, 85, 247, 0.15) 0%, rgba(249, 115, 22, 0.05) 50%, rgba(0, 0, 0, 0) 100%);
 }
-/* --- Animação para o Loader Infinito --- */
+/* --- Animação para o  Infinito --- */
 @keyframes infinite-loading {
   0% { 
     left: -50%; 
