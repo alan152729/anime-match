@@ -1,0 +1,6 @@
+{
+  "name": "AnimesMatch",
+  "description": "Encontre o seu próximo anime favorito através de recomendações interativas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
